@@ -60,3 +60,6 @@ button.cancel=Cancel
 
 국제화 기능을 위해 LocalResolver 를 통해 Locale 정보를 MessageSource로 읽어옴
 스프링 부트에서는 기본으로 AcceptHeaderLocaleResolver 를 사용하기 때문에 HTTP Header에 있는 Accept-Language 값을 이용함
+
+
+출처: 김영한 님의 인프런 강의 (스프링 MVC 2편 - 백엔드 웹 개발 활용 기술)
